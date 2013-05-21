@@ -1,4 +1,3 @@
-
 # hms
 
   get hours, minutes and seconds from milliseconds.
@@ -17,7 +16,7 @@ ret[0];
 // > 0
 ret[1];
 // > 40
-ret[0];
+ret[2];
 // > 0
 ret.join(':');
 // > 0:40:0
